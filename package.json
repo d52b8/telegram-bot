@@ -10,7 +10,7 @@
   "license": "ISC",
   "dependencies": {},
   "devDependencies": {
-    "axios": "^0.19.2",
+    "axios": "^1.6.8",
     "chai": "^4.2.0",
     "mocha": "^8.0.1"
   }
